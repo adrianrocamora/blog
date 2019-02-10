@@ -14,11 +14,11 @@ After a while, this too gets a bit tedious. So from time to time it's useful to 
 
 This will show a list of commands you have run on the terminal. If you are lucky enough you'll find your command there and you can just type it again or push the "up" key until you find it.
 
-When trying to get the exact command (say it has some configuration details or and address) I've seen some people do the following to find the command:
+When trying to get the exact command (say it has some configuration details or and address) I've seen some people do the following to find a command (one starting with ssh in this case):
 
 	history | grep ssh
 
-And this is fine. However, some of this people would benefit from using reverse search on the terminal. You can access this by pressing Control and the 'r' key and typing the command you are looking for
+And this is fine. However, some of these people would benefit from using reverse search on the terminal. You can access this by pressing Control and the 'r' key and typing the command you are looking for
 
 If the search result wasn't the one you wanted, just keep pressing Control + r and it will give you the next result!
 
