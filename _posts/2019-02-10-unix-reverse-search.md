@@ -20,6 +20,9 @@ When trying to get the exact command (say it has some configuration details or a
 
 And this is fine. However, some of this people would benefit from using reverse search on the terminal. You can access this by pressing Control and the 'r' key and typing the command you are looking for
 
+If the search result wasn't the one you wanted, just keep pressing Control + r and it will give you the next result!
+
+If you want to execute a result just press the Return key or you can start editing directly.
 
 <!--
 (See also: [`kebab-case`](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles),
