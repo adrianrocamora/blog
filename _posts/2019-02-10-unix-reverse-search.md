@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Unix basics: Part 1'
-date: 2019-03-16 00:02:00 +0000
+title: 'Unix Basics: Searching for a command you previously entered'
+date: 2019-02-10 00:00:00 +0000
 tags:
   unix
 ---
