@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prepping for Data Science'
-date: 2019-02-08 00:01:00 +0000
+date: 2019-02-15 00:00:00 +0000
 tags:
   data-science
 ---
