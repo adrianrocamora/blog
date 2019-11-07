@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: 'Unix Basics: Searching for a command you previously entered'
@@ -6,7 +7,6 @@ tags:
   unix
 ---
 
-<!--
 
 wordpress steps
 create wordpress site

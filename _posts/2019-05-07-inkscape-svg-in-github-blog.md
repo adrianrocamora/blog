@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: 'SVG files hosted on github but on Markdown github pages'
@@ -11,7 +12,6 @@ Here we show a (sanitized) raw svg:
 ![Alt text](https://raw.githubusercontent.com/adrianrocamora/blog_figures/master/drawing.svg?sanitize=true)
 <img src="https://raw.githubusercontent.com/adrianrocamora/blog_figures/master/drawing.svg?sanitize=true">
 
-<!--
 https://www.computerhope.com/unix/utee.htm
 https://linux.101hacks.com/unix/tee-command-examples/
 (See also: [`kebab-case`](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles),

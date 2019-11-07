@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: 'Unix Basics: Searching for a command you previously entered'
@@ -7,7 +8,6 @@ tags:
 ---
 
 
-<!--
 https://linuxhandbook.com/linux-shortcuts/
 http://www.unixguide.net/linux/linuxshortcuts.shtml
 https://techlog360.com/basic-ubuntu-commands-terminal-shortcuts-linux-beginner/

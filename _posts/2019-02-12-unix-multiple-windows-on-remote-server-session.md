@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: 'Unix Basics: Searching for a command you previously entered'
@@ -5,7 +6,6 @@ date: 2019-02-10 00:00:00 +0000
 tags:
   unix
 ---
-<!--
 https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340
 https://thoughtbot.com/blog/a-tmux-crash-course
 https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
